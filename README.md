@@ -1,6 +1,5 @@
 # Tokyo-Olympics-DataEngineering-Project
 
-# Tokoyo-Olympic-Analysis-2020-Azure
 Tokyo Olympics Analysis Using AZURE platform
 
 # Azure Data Pipeline Project
@@ -47,8 +46,8 @@ This project demonstrates an end-to-end data pipeline using Azure services for d
 1. **Data Ingestion:**
    - Data from various sources is ingested using Azure Data Factory and stored in a raw format in Data Lake Gen 2.
 
+<img width="1007" alt="image" src="https://github.com/user-attachments/assets/4b925042-48cd-48db-842f-f4732cb4cfd5" />
 
-![Ingestion using APIs](https://github.com/user-attachments/assets/a342b1db-5ccb-4c78-9d35-3cc5cc8b5fec)
 
 2. **Data Transformation:**
    - Azure Databricks processes the raw data, performing transformations such as filtering, aggregation, and data enrichment.
